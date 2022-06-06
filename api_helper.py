@@ -18,7 +18,7 @@ def get_time(time_string):
 
 class P9ApiPy(NorenApi):
     def __init__(self):
-        NorenApi.__init__(self, host='https://p9betanoren.phillipcapital.in/NorenWClient/', websocket='wss://p9betanoren.phillipcapital.in/NorenWS/', eodhost='https://p9betanoren.phillipcapital.in/chartApi/getdata/')
+        NorenApi.__init__(self, host='https://p9betanoren.phillipcapital.in/NorenWClientTP/', websocket='wss://p9betanoren.phillipcapital.in/NorenWSTP/', eodhost='https://p9betanoren.phillipcapital.in/chartApi/getdata/')
 
     
     
