@@ -1,11 +1,11 @@
-# P9Api
+# Philiip9 API
 
-Api used to connect to P9 OMS
+Phillip9 API solution is built keeping in mind the large and diverse Indian broking industry. Few of the prominent coverages are Order Execution and Exchange connectivity. This document provides details of APIs to develop Web/Mobile applications for Phillip9.
 ****
 
 ## Build
 
-to build this package and install it on your server please use 
+Use the package manager pip to install the required libraries.
 
 ``` pip install -r requirements.txt ```
 
@@ -14,7 +14,6 @@ to build this package and install it on your server please use
 
 ## API 
 ```Philiip9 API```
-Welcome to Philiip9 API
 - [login](#md-login)
 - [logout](#md-logout)
 
@@ -46,7 +45,7 @@ Websocket API
 - [subscribe](#md-subscribe)
 - [unsubscribe](#md-unsubscribe)
 
-Example
+Sample Flow
 - [getting started](#md-example-basic)
 - [Market Functions](#md-example-market)
 - [Orders and Trade](#md-example-orders)
@@ -2141,20 +2140,4 @@ while(feed_opened==False):
 ```
 
 ****
-
-## Author
-
-Kumar Anand
-
-****
-
-## License
-
-Copyright (C) 2021 Kambala Solutions Pvt Ltd- All Rights Reserved
-Copying of this file, via any medium is strictly prohibited.
-Proprietary and confidential.
-All file transfers are logged.
-
-****
-
 
