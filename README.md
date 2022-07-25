@@ -13,7 +13,8 @@ to build this package and install it on your server please use
 ****
 
 ## API 
-```P9Api```
+```Philiip9 API```
+Welcome to Philiip9 API
 - [login](#md-login)
 - [logout](#md-logout)
 
